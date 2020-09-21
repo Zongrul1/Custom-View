@@ -4,4 +4,4 @@
 
 ## 示例
 
-![](/example.png)
+![](example.png)
