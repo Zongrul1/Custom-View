@@ -4,4 +4,5 @@
 - [圆形图片](/CircleView)  
 - [流式布局](/FloatLayout)  
 - [Glide](/Glide)  
+- [动画](/Animation)  
 
