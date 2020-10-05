@@ -7,4 +7,6 @@
 - [动画](/Animation)  
 - [WebView](/WebView)  
 - [TabLayout](/https://www.jianshu.com/p/fde38f367019)
+- [AIDL-Server](/ServerDemo)
+- [AIDL-Client](/ClientDemo)
 
